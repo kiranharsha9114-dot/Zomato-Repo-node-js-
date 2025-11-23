@@ -1,5 +1,6 @@
 # Use Node.js 16 slim as the base image
 FROM node:16-slim
+LABEL "This is a front-end application"
 
 # Set the working directory
 WORKDIR /app
