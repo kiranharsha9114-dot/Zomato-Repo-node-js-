@@ -7,7 +7,7 @@ const Cities = () => {
   return (
     <div className="cities">
       <h1>
-        Popular localities in and around <span>Ahmedabad</span>
+        Popular localities in and around <span>Reddy-Palace</span>
       </h1>
       <div className="cityContainer">
         <div className="city">
